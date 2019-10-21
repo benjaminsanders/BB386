@@ -16,5 +16,13 @@
 ║ On top of that is a forum script built on modern    ║
 ║ web technologies including HTML5, PHP, SQL, &amp; JS.   ║
 ║                                                     ║
+╠═════════════════════════════════════════════════════╣
+║                                                     ║
+║                                                     ║
+║                                                     ║
+║                                                     ║
+║                                                     ║
+║                                                     ║
+║                                                     ║
 ╚═════════════════════════════════════════════════════╝
 </pre>
